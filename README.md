@@ -138,26 +138,3 @@ interface ListInfo {
   }
 }
 ```
-
-## 🤝 Příspěvky
-
-Vítáme příspěvky od komunity! Pro přispění:
-1. Forkněte repozitář
-2. Vytvořte feature branch
-3. Commitněte změny
-4. Pushněte do branch
-5. Otevřete Pull Request
-
-## 📄 Licence
-
-Tento projekt je licencován pod MIT licencí - viz soubor [LICENSE](LICENSE) pro detaily.
-
-## 📞 Podpora
-
-Pro podporu nebo nahlášení problémů:
-- Otevřete issue na GitHubu
-- Kontaktujte autora na GitHubu
-
-## 🙏 Poděkování
-
-Děkujeme všem přispěvatelům a uživatelům za jejich podporu a zpětnou vazbu!
